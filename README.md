@@ -13,6 +13,7 @@ Python functional program for OBD interface
 ☑ Add Python to PATH  
 ☑ tcl/tk and IDLE
 ## 💾 Installation
+0. Download the .zip file from: https://github.com/BagietaDC/vOBD/releases
 1. Unzip the `.zip` file into a new folder (e.g. on Desktop).  
 2. Open CMD as Administrator.  
 3. Navigate to the folder:  
