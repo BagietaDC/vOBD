@@ -12,7 +12,7 @@ Python functional program for OBD interface
 ⚠️ During Python installation, check:
 ☑ Add Python to PATH  
 ☑ tcl/tk and IDLE
-## 💾 Installation
+## 💾 Installation with source code
 0. Download the .zip file from: https://github.com/BagietaDC/vOBD/releases
 1. Unzip the `.zip` file into a new folder (e.g. on Desktop).  
 2. Open CMD as Administrator.  
@@ -26,6 +26,11 @@ Python functional program for OBD interface
 5. Launch the program:
    python obdmain-cmd.py    ← command-line mode (CMD)  
    python obdmain-gui.pyw    ← graphical interface (GUI)
+
+## 💾 Installation with source code
+1. Download the .exe file from the latest release: https://github.com/BagietaDC/vOBD/releases
+2. Drag the .exe file to desktop and open it!
+   
 ## 🛠 Common issues
 ❌ ELM327 not connecting?  
 • Check Device Manager (Ports COM)  
