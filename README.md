@@ -27,7 +27,7 @@ Python functional program for OBD interface
    python obdmain-cmd.py    ← command-line mode (CMD)  
    python obdmain-gui.pyw    ← graphical interface (GUI)
 
-## 💾 Installation with source code
+## 💾 Installation without source code (RECOMMENDED)
 1. Download the .exe file from the latest release: https://github.com/BagietaDC/vOBD/releases
 2. Drag the .exe file to desktop and open it!
    
